@@ -1,0 +1,15 @@
+.weather-data {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.weather-icon {
+    height: 100px;
+    margin: auto 20px;
+}
+
+.change-type {
+    height: 50px;
+    margin-left: 20px;
+}
